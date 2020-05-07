@@ -4,7 +4,7 @@
   <artifactId>practice</artifactId>
   <version>1</version>
   <packaging>war</packaging>
-  <name>NewDev</name>
+  <name>DevOpsProjectnow</name>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
